@@ -1,4 +1,4 @@
-# varharrie's blog
+# hc's blog
 
 ## Getting Started
 
